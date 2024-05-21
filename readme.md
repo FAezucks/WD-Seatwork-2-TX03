@@ -4,7 +4,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/FAezucks/">
+  <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
     <img src="https://i.kym-cdn.com/photos/images/original/002/058/980/3b5.jpg" alt="Nyebe" width="130" height="100">
   </a>
@@ -20,7 +20,7 @@
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=FAezucks/WD-Seatwork-2-TX03)
+![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
 
 ---
 
