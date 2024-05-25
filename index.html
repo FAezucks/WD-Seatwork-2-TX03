@@ -13,7 +13,7 @@
             padding: 20px;
         }
 
-        .profile-img {
+       .profile-img {
             border-radius: 50%;
             width: 200px;
             height: 200px;
@@ -26,13 +26,22 @@
         }
 
         p {
-            color: green;
+            color: pink;
             font-size: 24px;
+        }
+
+        @keyframes fade-in {
+          0%   { opacity: 0; }
+          100% { opacity: 1; }
+        }
+
+        #home {
+          animation: fade-in 2s;
         }
     </style>
 </head>
 <body>
-    <button onclick="window.location.href='#home'">Home</button>
+    <button  onclick="window.location.href='#home'">Home</button>
     <button onclick="window.location.href='#skills'">Skills</button>
     <button onclick="window.location.href='#projects'">Projects</button>
 
